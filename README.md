@@ -1,5 +1,7 @@
 # general-info
 
+## This project is stale! If you are a developer who wants to continue with this project let me know, and I help you to reenable this open source project.Don't expect anything to get fixed, build etc.
+
 ## Important ressources:
 
 [Blog](http://blog.grassberry-high.com/)
